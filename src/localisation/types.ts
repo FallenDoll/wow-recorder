@@ -359,6 +359,7 @@ enum Phrase {
   Saving,
   StartTyping,
   ToggleDrawingMode,
+  ResetVideoHeight,
   UnstarSelected,
   StarSelected,
   Selection,
